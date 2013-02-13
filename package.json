@@ -1,0 +1,24 @@
+{
+  "name": "replace_tag",
+  "version": "0.1.1",
+  "description": "replace html tag without use regex or xregex in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "replace",
+    "html",
+    "tag",
+    "regex",
+    "xregex"
+  ],
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/narsic/replace_tag_node.js.git"
+  },
+  "author": "narsic <narsicnet@gmail.com>",
+  "gitHead": "2ed14b02cd72df1e37754639bcadc9b4519cdfa1"
+}
